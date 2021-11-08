@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "react-to-typescript-definitions": "^3.0.1"
+  }
+}
