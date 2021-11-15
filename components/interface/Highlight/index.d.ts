@@ -1,2 +1,3 @@
-import * as React from 'react';
+import Highlight from "./Highlight"
 
+export { Highlight }

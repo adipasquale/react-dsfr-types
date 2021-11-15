@@ -1,2 +1,3 @@
-import * as React from 'react';
+import MediaVideo from "./MediaVideo"
 
+export { MediaVideo }

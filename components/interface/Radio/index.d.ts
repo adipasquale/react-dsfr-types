@@ -1,2 +1,4 @@
-import * as React from 'react';
+import Radio from "./Radio"
+import RadioGroup from "./RadioGroup"
 
+export { Radio, RadioGroup }

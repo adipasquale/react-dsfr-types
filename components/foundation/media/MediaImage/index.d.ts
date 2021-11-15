@@ -1,2 +1,3 @@
-import * as React from 'react';
+import MediaImage from "./MediaImage"
 
+export { MediaImage }

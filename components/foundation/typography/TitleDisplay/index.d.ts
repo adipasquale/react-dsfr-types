@@ -1,2 +1,3 @@
-import * as React from 'react';
+import TitleDisplay from "./TitleDisplay"
 
+export { TitleDisplay }

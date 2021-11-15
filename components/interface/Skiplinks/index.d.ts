@@ -1,2 +1,4 @@
-import * as React from 'react';
+import SkiplinkItem from "./SkiplinkItem"
+import Skiplinks from "./Skiplinks"
 
+export { SkiplinkItem, Skiplinks }

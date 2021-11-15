@@ -1,2 +1,3 @@
-import * as React from 'react';
+import Icon from "./Icon"
 
+export { Icon }

@@ -1,2 +1,4 @@
-import * as React from 'react';
+import Summary from "./Summary"
+import SummaryItem from "./SummaryItem"
 
+export { Summary, SummaryItem }
